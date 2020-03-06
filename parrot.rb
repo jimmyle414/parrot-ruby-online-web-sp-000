@@ -7,8 +7,5 @@ def parrot(phrase = "Pretty Bird!")
   
 end
 
-def parrot(phrase = "Pretty Bird!")
- 
-puts " #{phrase}"
-
-end
+parrot()
+parrot
