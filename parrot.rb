@@ -9,5 +9,5 @@ end
 
 def parrot("Pretty Bird!")
   phrase = parrot("Pretty Bird!")
-returns "Pretty Bird!"
+puts "Pretty Bird!"
 end
