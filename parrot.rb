@@ -11,5 +11,5 @@ end
 def parrot()
   phrase = "Pretty Bird!"
   "Pretty Bird!"
-  "Pretty Bird!"
+  
 end
