@@ -6,6 +6,10 @@ def parrot()
   "Squawk!"
 end
 
+def parrot(phrase = "Pretty Bird")
+  puts " #{phrase}!"
+  
+end
 
 
 
