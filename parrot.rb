@@ -10,5 +10,5 @@ end
 def parrot(phrase)
  
 puts " #{phrase}!"
-"Pretty Bird!"
+
 end
