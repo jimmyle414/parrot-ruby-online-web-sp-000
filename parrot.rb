@@ -12,4 +12,3 @@ def parrot(phrase = "Pretty Bird!"))
 puts " #{phrase}"
 
 end
-parrot("Pretty Bird!")
