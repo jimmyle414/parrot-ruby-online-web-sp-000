@@ -9,7 +9,7 @@ end
 
 def parrot(phrase)
  
-puts " #{phrase}!"
+puts " #{phrase}"
 
 end
 parrot("Pretty Bird!")
